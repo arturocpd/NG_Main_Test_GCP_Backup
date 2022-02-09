@@ -164,12 +164,12 @@
     <listViews>
         <fullName>All_SchedulingConstraints</fullName>
         <filterScope>Everything</filterScope>
-        <label>Todas las Restricciones de programaciones</label>
+        <label>All Scheduling Constraints</label>
     </listViews>
     <listViews>
         <fullName>My_SchedulingConstraints</fullName>
         <filterScope>Mine</filterScope>
-        <label>Mis Restricciones de programaciones</label>
+        <label>My Scheduling Constraints</label>
     </listViews>
     <sharingModel>Private</sharingModel>
 </CustomObject>

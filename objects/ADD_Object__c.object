@@ -155,6 +155,7 @@
     <externalSharingModel>Private</externalSharingModel>
     <fields>
         <fullName>Ext_Id_in_ADD_Object__c</fullName>
+        <encryptionScheme>None</encryptionScheme>
         <externalId>true</externalId>
         <label>Ext Id in ADD Object</label>
         <length>14</length>
@@ -167,6 +168,7 @@
     <gender>Feminine</gender>
     <label>ADD Object</label>
     <nameField>
+        <encryptionScheme>None</encryptionScheme>
         <label>ADD Object Name</label>
         <trackHistory>false</trackHistory>
         <type>Text</type>

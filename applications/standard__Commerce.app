@@ -11,8 +11,12 @@
     <tabs>standard-Contact</tabs>
     <tabs>standard-report</tabs>
     <tabs>standard-Order</tabs>
+    <tabs>Known_Issue__c</tabs>
     <uiType>Lightning</uiType>
     <workspaceConfig>
+        <mappings>
+            <tab>Known_Issue__c</tab>
+        </mappings>
         <mappings>
             <tab>standard-Account</tab>
         </mappings>

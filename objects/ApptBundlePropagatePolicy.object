@@ -131,6 +131,7 @@
     <externalSharingModel>ControlledByParent</externalSharingModel>
     <fields>
         <fullName>AdditionalConstantValue</fullName>
+        <encryptionScheme>None</encryptionScheme>
         <inlineHelpText>Enter another constant value that’s added to the bundle members.</inlineHelpText>
     </fields>
     <fields>
@@ -147,6 +148,7 @@
     </fields>
     <fields>
         <fullName>ConstantValue</fullName>
+        <encryptionScheme>None</encryptionScheme>
         <inlineHelpText>Enter the constant value that’s added to the bundle members.</inlineHelpText>
     </fields>
     <fields>

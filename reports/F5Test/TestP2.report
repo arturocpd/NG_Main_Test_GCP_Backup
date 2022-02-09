@@ -21,6 +21,7 @@
     <columns>
         <field>LAST_UPDATE</field>
     </columns>
+    <currency>EUR</currency>
     <format>Tabular</format>
     <name>TestP2</name>
     <params>

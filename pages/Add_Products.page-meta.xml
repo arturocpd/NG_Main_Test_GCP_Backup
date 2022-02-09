@@ -5,11 +5,6 @@
     <confirmationTokenRequired>false</confirmationTokenRequired>
     <label>Add_Products</label>
     <packageVersions>
-        <majorNumber>15</majorNumber>
-        <minorNumber>0</minorNumber>
-        <namespace>copado</namespace>
-    </packageVersions>
-    <packageVersions>
         <majorNumber>1</majorNumber>
         <minorNumber>7</minorNumber>
         <namespace>sf_com_apps</namespace>

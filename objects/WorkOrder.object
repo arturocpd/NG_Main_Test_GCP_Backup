@@ -151,6 +151,7 @@
     </fields>
     <fields>
         <fullName>Address</fullName>
+        <encryptionScheme>None</encryptionScheme>
         <trackFeedHistory>false</trackFeedHistory>
         <trackHistory>false</trackHistory>
     </fields>
@@ -191,6 +192,7 @@
     </fields>
     <fields>
         <fullName>Description</fullName>
+        <encryptionScheme>None</encryptionScheme>
         <trackFeedHistory>false</trackFeedHistory>
         <trackHistory>false</trackHistory>
     </fields>
@@ -386,6 +388,7 @@
     </fields>
     <fields>
         <fullName>Subject</fullName>
+        <encryptionScheme>None</encryptionScheme>
         <trackFeedHistory>false</trackFeedHistory>
         <trackHistory>false</trackHistory>
     </fields>
@@ -424,6 +427,15 @@
         <fullName>My_WorkOrders</fullName>
         <filterScope>Mine</filterScope>
         <label>My Work Orders</label>
+    </listViews>
+    <listViews>
+        <fullName>NA_Research_WorkOrder</fullName>
+        <filterScope>Queue</filterScope>
+        <label>NA - Research</label>
+        <queue>NA_Research</queue>
+        <sharedTo>
+            <allInternalUsers></allInternalUsers>
+        </sharedTo>
     </listViews>
     <searchLayouts>
         <customTabListAdditionalFields>Subject</customTabListAdditionalFields>

@@ -15,6 +15,7 @@
     </fields>
     <fields>
         <fullName>Fix_Text__c</fullName>
+        <encryptionScheme>None</encryptionScheme>
         <externalId>false</externalId>
         <label>Fix Text</label>
         <length>12</length>

@@ -155,12 +155,12 @@
     <listViews>
         <fullName>All_ServiceResourcePreferences</fullName>
         <filterScope>Everything</filterScope>
-        <label>Todas las Preferencias de recursos de servicio</label>
+        <label>All Service Resource Preferences</label>
     </listViews>
     <listViews>
         <fullName>My_ServiceResourcePreferences</fullName>
         <filterScope>Mine</filterScope>
-        <label>Mis Preferencias de recursos de servicio</label>
+        <label>My Service Resource Preferences</label>
     </listViews>
     <sharingModel>Private</sharingModel>
 </CustomObject>
